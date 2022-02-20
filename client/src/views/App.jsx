@@ -1,11 +1,9 @@
 import React from 'react';
 
-function App({ logo }) {
+function App() {
   return (
     <div className='App'>
-      <header className='App-header'>
-        <img src={logo} className='App-logo' alt='Icons made by https://www.flaticon.com/authors/freepik' />
-      </header>
+      Hello World
     </div>
   );
 }
